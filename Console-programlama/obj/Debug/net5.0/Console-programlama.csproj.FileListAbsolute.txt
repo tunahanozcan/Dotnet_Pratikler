@@ -1,0 +1,16 @@
+C:\Users\ILYAS TUNAHAN OZCAN\Desktop\C#\Console-programlama\bin\Debug\net5.0\Console-programlama.exe
+C:\Users\ILYAS TUNAHAN OZCAN\Desktop\C#\Console-programlama\bin\Debug\net5.0\Console-programlama.deps.json
+C:\Users\ILYAS TUNAHAN OZCAN\Desktop\C#\Console-programlama\bin\Debug\net5.0\Console-programlama.runtimeconfig.json
+C:\Users\ILYAS TUNAHAN OZCAN\Desktop\C#\Console-programlama\bin\Debug\net5.0\Console-programlama.runtimeconfig.dev.json
+C:\Users\ILYAS TUNAHAN OZCAN\Desktop\C#\Console-programlama\bin\Debug\net5.0\Console-programlama.dll
+C:\Users\ILYAS TUNAHAN OZCAN\Desktop\C#\Console-programlama\bin\Debug\net5.0\ref\Console-programlama.dll
+C:\Users\ILYAS TUNAHAN OZCAN\Desktop\C#\Console-programlama\bin\Debug\net5.0\Console-programlama.pdb
+C:\Users\ILYAS TUNAHAN OZCAN\Desktop\C#\Console-programlama\obj\Debug\net5.0\Console-programlama.csprojAssemblyReference.cache
+C:\Users\ILYAS TUNAHAN OZCAN\Desktop\C#\Console-programlama\obj\Debug\net5.0\Console-programlama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ILYAS TUNAHAN OZCAN\Desktop\C#\Console-programlama\obj\Debug\net5.0\Console-programlama.AssemblyInfoInputs.cache
+C:\Users\ILYAS TUNAHAN OZCAN\Desktop\C#\Console-programlama\obj\Debug\net5.0\Console-programlama.AssemblyInfo.cs
+C:\Users\ILYAS TUNAHAN OZCAN\Desktop\C#\Console-programlama\obj\Debug\net5.0\Console-programlama.csproj.CoreCompileInputs.cache
+C:\Users\ILYAS TUNAHAN OZCAN\Desktop\C#\Console-programlama\obj\Debug\net5.0\Console-programlama.dll
+C:\Users\ILYAS TUNAHAN OZCAN\Desktop\C#\Console-programlama\obj\Debug\net5.0\ref\Console-programlama.dll
+C:\Users\ILYAS TUNAHAN OZCAN\Desktop\C#\Console-programlama\obj\Debug\net5.0\Console-programlama.pdb
+C:\Users\ILYAS TUNAHAN OZCAN\Desktop\C#\Console-programlama\obj\Debug\net5.0\Console-programlama.genruntimeconfig.cache
