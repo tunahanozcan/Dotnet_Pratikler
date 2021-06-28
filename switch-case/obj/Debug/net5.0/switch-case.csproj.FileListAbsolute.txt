@@ -1,0 +1,16 @@
+C:\Users\ILYAS TUNAHAN OZCAN\Desktop\C#\Dotnet_Pratikler\Dotnet_Pratikler\switch-case\bin\Debug\net5.0\switch-case.exe
+C:\Users\ILYAS TUNAHAN OZCAN\Desktop\C#\Dotnet_Pratikler\Dotnet_Pratikler\switch-case\bin\Debug\net5.0\switch-case.deps.json
+C:\Users\ILYAS TUNAHAN OZCAN\Desktop\C#\Dotnet_Pratikler\Dotnet_Pratikler\switch-case\bin\Debug\net5.0\switch-case.runtimeconfig.json
+C:\Users\ILYAS TUNAHAN OZCAN\Desktop\C#\Dotnet_Pratikler\Dotnet_Pratikler\switch-case\bin\Debug\net5.0\switch-case.runtimeconfig.dev.json
+C:\Users\ILYAS TUNAHAN OZCAN\Desktop\C#\Dotnet_Pratikler\Dotnet_Pratikler\switch-case\bin\Debug\net5.0\switch-case.dll
+C:\Users\ILYAS TUNAHAN OZCAN\Desktop\C#\Dotnet_Pratikler\Dotnet_Pratikler\switch-case\bin\Debug\net5.0\ref\switch-case.dll
+C:\Users\ILYAS TUNAHAN OZCAN\Desktop\C#\Dotnet_Pratikler\Dotnet_Pratikler\switch-case\bin\Debug\net5.0\switch-case.pdb
+C:\Users\ILYAS TUNAHAN OZCAN\Desktop\C#\Dotnet_Pratikler\Dotnet_Pratikler\switch-case\obj\Debug\net5.0\switch-case.csprojAssemblyReference.cache
+C:\Users\ILYAS TUNAHAN OZCAN\Desktop\C#\Dotnet_Pratikler\Dotnet_Pratikler\switch-case\obj\Debug\net5.0\switch-case.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ILYAS TUNAHAN OZCAN\Desktop\C#\Dotnet_Pratikler\Dotnet_Pratikler\switch-case\obj\Debug\net5.0\switch-case.AssemblyInfoInputs.cache
+C:\Users\ILYAS TUNAHAN OZCAN\Desktop\C#\Dotnet_Pratikler\Dotnet_Pratikler\switch-case\obj\Debug\net5.0\switch-case.AssemblyInfo.cs
+C:\Users\ILYAS TUNAHAN OZCAN\Desktop\C#\Dotnet_Pratikler\Dotnet_Pratikler\switch-case\obj\Debug\net5.0\switch-case.csproj.CoreCompileInputs.cache
+C:\Users\ILYAS TUNAHAN OZCAN\Desktop\C#\Dotnet_Pratikler\Dotnet_Pratikler\switch-case\obj\Debug\net5.0\switch-case.dll
+C:\Users\ILYAS TUNAHAN OZCAN\Desktop\C#\Dotnet_Pratikler\Dotnet_Pratikler\switch-case\obj\Debug\net5.0\ref\switch-case.dll
+C:\Users\ILYAS TUNAHAN OZCAN\Desktop\C#\Dotnet_Pratikler\Dotnet_Pratikler\switch-case\obj\Debug\net5.0\switch-case.pdb
+C:\Users\ILYAS TUNAHAN OZCAN\Desktop\C#\Dotnet_Pratikler\Dotnet_Pratikler\switch-case\obj\Debug\net5.0\switch-case.genruntimeconfig.cache
