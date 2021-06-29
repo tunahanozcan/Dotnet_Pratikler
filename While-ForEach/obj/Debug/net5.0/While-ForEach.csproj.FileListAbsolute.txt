@@ -1,0 +1,16 @@
+C:\Users\ILYAS TUNAHAN OZCAN\Desktop\C#\Dotnet_Pratikler\Dotnet_Pratikler\While-ForEach\bin\Debug\net5.0\While-ForEach.exe
+C:\Users\ILYAS TUNAHAN OZCAN\Desktop\C#\Dotnet_Pratikler\Dotnet_Pratikler\While-ForEach\bin\Debug\net5.0\While-ForEach.deps.json
+C:\Users\ILYAS TUNAHAN OZCAN\Desktop\C#\Dotnet_Pratikler\Dotnet_Pratikler\While-ForEach\bin\Debug\net5.0\While-ForEach.runtimeconfig.json
+C:\Users\ILYAS TUNAHAN OZCAN\Desktop\C#\Dotnet_Pratikler\Dotnet_Pratikler\While-ForEach\bin\Debug\net5.0\While-ForEach.runtimeconfig.dev.json
+C:\Users\ILYAS TUNAHAN OZCAN\Desktop\C#\Dotnet_Pratikler\Dotnet_Pratikler\While-ForEach\bin\Debug\net5.0\While-ForEach.dll
+C:\Users\ILYAS TUNAHAN OZCAN\Desktop\C#\Dotnet_Pratikler\Dotnet_Pratikler\While-ForEach\bin\Debug\net5.0\ref\While-ForEach.dll
+C:\Users\ILYAS TUNAHAN OZCAN\Desktop\C#\Dotnet_Pratikler\Dotnet_Pratikler\While-ForEach\bin\Debug\net5.0\While-ForEach.pdb
+C:\Users\ILYAS TUNAHAN OZCAN\Desktop\C#\Dotnet_Pratikler\Dotnet_Pratikler\While-ForEach\obj\Debug\net5.0\While-ForEach.csprojAssemblyReference.cache
+C:\Users\ILYAS TUNAHAN OZCAN\Desktop\C#\Dotnet_Pratikler\Dotnet_Pratikler\While-ForEach\obj\Debug\net5.0\While-ForEach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ILYAS TUNAHAN OZCAN\Desktop\C#\Dotnet_Pratikler\Dotnet_Pratikler\While-ForEach\obj\Debug\net5.0\While-ForEach.AssemblyInfoInputs.cache
+C:\Users\ILYAS TUNAHAN OZCAN\Desktop\C#\Dotnet_Pratikler\Dotnet_Pratikler\While-ForEach\obj\Debug\net5.0\While-ForEach.AssemblyInfo.cs
+C:\Users\ILYAS TUNAHAN OZCAN\Desktop\C#\Dotnet_Pratikler\Dotnet_Pratikler\While-ForEach\obj\Debug\net5.0\While-ForEach.csproj.CoreCompileInputs.cache
+C:\Users\ILYAS TUNAHAN OZCAN\Desktop\C#\Dotnet_Pratikler\Dotnet_Pratikler\While-ForEach\obj\Debug\net5.0\While-ForEach.dll
+C:\Users\ILYAS TUNAHAN OZCAN\Desktop\C#\Dotnet_Pratikler\Dotnet_Pratikler\While-ForEach\obj\Debug\net5.0\ref\While-ForEach.dll
+C:\Users\ILYAS TUNAHAN OZCAN\Desktop\C#\Dotnet_Pratikler\Dotnet_Pratikler\While-ForEach\obj\Debug\net5.0\While-ForEach.pdb
+C:\Users\ILYAS TUNAHAN OZCAN\Desktop\C#\Dotnet_Pratikler\Dotnet_Pratikler\While-ForEach\obj\Debug\net5.0\While-ForEach.genruntimeconfig.cache
