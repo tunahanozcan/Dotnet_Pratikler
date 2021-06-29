@@ -1,0 +1,16 @@
+C:\Users\ILYAS TUNAHAN OZCAN\Desktop\C#\Dotnet_Pratikler\Dotnet_Pratikler\Donguler-For-Loop\bin\Debug\net5.0\Donguler-For-Loop.exe
+C:\Users\ILYAS TUNAHAN OZCAN\Desktop\C#\Dotnet_Pratikler\Dotnet_Pratikler\Donguler-For-Loop\bin\Debug\net5.0\Donguler-For-Loop.deps.json
+C:\Users\ILYAS TUNAHAN OZCAN\Desktop\C#\Dotnet_Pratikler\Dotnet_Pratikler\Donguler-For-Loop\bin\Debug\net5.0\Donguler-For-Loop.runtimeconfig.json
+C:\Users\ILYAS TUNAHAN OZCAN\Desktop\C#\Dotnet_Pratikler\Dotnet_Pratikler\Donguler-For-Loop\bin\Debug\net5.0\Donguler-For-Loop.runtimeconfig.dev.json
+C:\Users\ILYAS TUNAHAN OZCAN\Desktop\C#\Dotnet_Pratikler\Dotnet_Pratikler\Donguler-For-Loop\bin\Debug\net5.0\Donguler-For-Loop.dll
+C:\Users\ILYAS TUNAHAN OZCAN\Desktop\C#\Dotnet_Pratikler\Dotnet_Pratikler\Donguler-For-Loop\bin\Debug\net5.0\ref\Donguler-For-Loop.dll
+C:\Users\ILYAS TUNAHAN OZCAN\Desktop\C#\Dotnet_Pratikler\Dotnet_Pratikler\Donguler-For-Loop\bin\Debug\net5.0\Donguler-For-Loop.pdb
+C:\Users\ILYAS TUNAHAN OZCAN\Desktop\C#\Dotnet_Pratikler\Dotnet_Pratikler\Donguler-For-Loop\obj\Debug\net5.0\Donguler-For-Loop.csprojAssemblyReference.cache
+C:\Users\ILYAS TUNAHAN OZCAN\Desktop\C#\Dotnet_Pratikler\Dotnet_Pratikler\Donguler-For-Loop\obj\Debug\net5.0\Donguler-For-Loop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ILYAS TUNAHAN OZCAN\Desktop\C#\Dotnet_Pratikler\Dotnet_Pratikler\Donguler-For-Loop\obj\Debug\net5.0\Donguler-For-Loop.AssemblyInfoInputs.cache
+C:\Users\ILYAS TUNAHAN OZCAN\Desktop\C#\Dotnet_Pratikler\Dotnet_Pratikler\Donguler-For-Loop\obj\Debug\net5.0\Donguler-For-Loop.AssemblyInfo.cs
+C:\Users\ILYAS TUNAHAN OZCAN\Desktop\C#\Dotnet_Pratikler\Dotnet_Pratikler\Donguler-For-Loop\obj\Debug\net5.0\Donguler-For-Loop.csproj.CoreCompileInputs.cache
+C:\Users\ILYAS TUNAHAN OZCAN\Desktop\C#\Dotnet_Pratikler\Dotnet_Pratikler\Donguler-For-Loop\obj\Debug\net5.0\Donguler-For-Loop.dll
+C:\Users\ILYAS TUNAHAN OZCAN\Desktop\C#\Dotnet_Pratikler\Dotnet_Pratikler\Donguler-For-Loop\obj\Debug\net5.0\ref\Donguler-For-Loop.dll
+C:\Users\ILYAS TUNAHAN OZCAN\Desktop\C#\Dotnet_Pratikler\Dotnet_Pratikler\Donguler-For-Loop\obj\Debug\net5.0\Donguler-For-Loop.pdb
+C:\Users\ILYAS TUNAHAN OZCAN\Desktop\C#\Dotnet_Pratikler\Dotnet_Pratikler\Donguler-For-Loop\obj\Debug\net5.0\Donguler-For-Loop.genruntimeconfig.cache
