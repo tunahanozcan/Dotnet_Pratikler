@@ -1,0 +1,16 @@
+C:\Users\ILYAS TUNAHAN OZCAN\Desktop\C#\Dotnet_Pratikler\Dotnet_Pratikler\Diziler-Array-Sinif-Method\bin\Debug\net5.0\Diziler-Array-Sinif-Method.exe
+C:\Users\ILYAS TUNAHAN OZCAN\Desktop\C#\Dotnet_Pratikler\Dotnet_Pratikler\Diziler-Array-Sinif-Method\bin\Debug\net5.0\Diziler-Array-Sinif-Method.deps.json
+C:\Users\ILYAS TUNAHAN OZCAN\Desktop\C#\Dotnet_Pratikler\Dotnet_Pratikler\Diziler-Array-Sinif-Method\bin\Debug\net5.0\Diziler-Array-Sinif-Method.runtimeconfig.json
+C:\Users\ILYAS TUNAHAN OZCAN\Desktop\C#\Dotnet_Pratikler\Dotnet_Pratikler\Diziler-Array-Sinif-Method\bin\Debug\net5.0\Diziler-Array-Sinif-Method.runtimeconfig.dev.json
+C:\Users\ILYAS TUNAHAN OZCAN\Desktop\C#\Dotnet_Pratikler\Dotnet_Pratikler\Diziler-Array-Sinif-Method\bin\Debug\net5.0\Diziler-Array-Sinif-Method.dll
+C:\Users\ILYAS TUNAHAN OZCAN\Desktop\C#\Dotnet_Pratikler\Dotnet_Pratikler\Diziler-Array-Sinif-Method\bin\Debug\net5.0\ref\Diziler-Array-Sinif-Method.dll
+C:\Users\ILYAS TUNAHAN OZCAN\Desktop\C#\Dotnet_Pratikler\Dotnet_Pratikler\Diziler-Array-Sinif-Method\bin\Debug\net5.0\Diziler-Array-Sinif-Method.pdb
+C:\Users\ILYAS TUNAHAN OZCAN\Desktop\C#\Dotnet_Pratikler\Dotnet_Pratikler\Diziler-Array-Sinif-Method\obj\Debug\net5.0\Diziler-Array-Sinif-Method.csprojAssemblyReference.cache
+C:\Users\ILYAS TUNAHAN OZCAN\Desktop\C#\Dotnet_Pratikler\Dotnet_Pratikler\Diziler-Array-Sinif-Method\obj\Debug\net5.0\Diziler-Array-Sinif-Method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ILYAS TUNAHAN OZCAN\Desktop\C#\Dotnet_Pratikler\Dotnet_Pratikler\Diziler-Array-Sinif-Method\obj\Debug\net5.0\Diziler-Array-Sinif-Method.AssemblyInfoInputs.cache
+C:\Users\ILYAS TUNAHAN OZCAN\Desktop\C#\Dotnet_Pratikler\Dotnet_Pratikler\Diziler-Array-Sinif-Method\obj\Debug\net5.0\Diziler-Array-Sinif-Method.AssemblyInfo.cs
+C:\Users\ILYAS TUNAHAN OZCAN\Desktop\C#\Dotnet_Pratikler\Dotnet_Pratikler\Diziler-Array-Sinif-Method\obj\Debug\net5.0\Diziler-Array-Sinif-Method.csproj.CoreCompileInputs.cache
+C:\Users\ILYAS TUNAHAN OZCAN\Desktop\C#\Dotnet_Pratikler\Dotnet_Pratikler\Diziler-Array-Sinif-Method\obj\Debug\net5.0\Diziler-Array-Sinif-Method.dll
+C:\Users\ILYAS TUNAHAN OZCAN\Desktop\C#\Dotnet_Pratikler\Dotnet_Pratikler\Diziler-Array-Sinif-Method\obj\Debug\net5.0\ref\Diziler-Array-Sinif-Method.dll
+C:\Users\ILYAS TUNAHAN OZCAN\Desktop\C#\Dotnet_Pratikler\Dotnet_Pratikler\Diziler-Array-Sinif-Method\obj\Debug\net5.0\Diziler-Array-Sinif-Method.pdb
+C:\Users\ILYAS TUNAHAN OZCAN\Desktop\C#\Dotnet_Pratikler\Dotnet_Pratikler\Diziler-Array-Sinif-Method\obj\Debug\net5.0\Diziler-Array-Sinif-Method.genruntimeconfig.cache
