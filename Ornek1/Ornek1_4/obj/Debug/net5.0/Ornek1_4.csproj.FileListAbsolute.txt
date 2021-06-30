@@ -1,0 +1,16 @@
+C:\Users\ILYAS TUNAHAN OZCAN\Desktop\C#\Dotnet_Pratikler\Dotnet_Pratikler\Ornek1\Ornek1_4\bin\Debug\net5.0\Ornek1_4.exe
+C:\Users\ILYAS TUNAHAN OZCAN\Desktop\C#\Dotnet_Pratikler\Dotnet_Pratikler\Ornek1\Ornek1_4\bin\Debug\net5.0\Ornek1_4.deps.json
+C:\Users\ILYAS TUNAHAN OZCAN\Desktop\C#\Dotnet_Pratikler\Dotnet_Pratikler\Ornek1\Ornek1_4\bin\Debug\net5.0\Ornek1_4.runtimeconfig.json
+C:\Users\ILYAS TUNAHAN OZCAN\Desktop\C#\Dotnet_Pratikler\Dotnet_Pratikler\Ornek1\Ornek1_4\bin\Debug\net5.0\Ornek1_4.runtimeconfig.dev.json
+C:\Users\ILYAS TUNAHAN OZCAN\Desktop\C#\Dotnet_Pratikler\Dotnet_Pratikler\Ornek1\Ornek1_4\bin\Debug\net5.0\Ornek1_4.dll
+C:\Users\ILYAS TUNAHAN OZCAN\Desktop\C#\Dotnet_Pratikler\Dotnet_Pratikler\Ornek1\Ornek1_4\bin\Debug\net5.0\ref\Ornek1_4.dll
+C:\Users\ILYAS TUNAHAN OZCAN\Desktop\C#\Dotnet_Pratikler\Dotnet_Pratikler\Ornek1\Ornek1_4\bin\Debug\net5.0\Ornek1_4.pdb
+C:\Users\ILYAS TUNAHAN OZCAN\Desktop\C#\Dotnet_Pratikler\Dotnet_Pratikler\Ornek1\Ornek1_4\obj\Debug\net5.0\Ornek1_4.csprojAssemblyReference.cache
+C:\Users\ILYAS TUNAHAN OZCAN\Desktop\C#\Dotnet_Pratikler\Dotnet_Pratikler\Ornek1\Ornek1_4\obj\Debug\net5.0\Ornek1_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ILYAS TUNAHAN OZCAN\Desktop\C#\Dotnet_Pratikler\Dotnet_Pratikler\Ornek1\Ornek1_4\obj\Debug\net5.0\Ornek1_4.AssemblyInfoInputs.cache
+C:\Users\ILYAS TUNAHAN OZCAN\Desktop\C#\Dotnet_Pratikler\Dotnet_Pratikler\Ornek1\Ornek1_4\obj\Debug\net5.0\Ornek1_4.AssemblyInfo.cs
+C:\Users\ILYAS TUNAHAN OZCAN\Desktop\C#\Dotnet_Pratikler\Dotnet_Pratikler\Ornek1\Ornek1_4\obj\Debug\net5.0\Ornek1_4.csproj.CoreCompileInputs.cache
+C:\Users\ILYAS TUNAHAN OZCAN\Desktop\C#\Dotnet_Pratikler\Dotnet_Pratikler\Ornek1\Ornek1_4\obj\Debug\net5.0\Ornek1_4.dll
+C:\Users\ILYAS TUNAHAN OZCAN\Desktop\C#\Dotnet_Pratikler\Dotnet_Pratikler\Ornek1\Ornek1_4\obj\Debug\net5.0\ref\Ornek1_4.dll
+C:\Users\ILYAS TUNAHAN OZCAN\Desktop\C#\Dotnet_Pratikler\Dotnet_Pratikler\Ornek1\Ornek1_4\obj\Debug\net5.0\Ornek1_4.pdb
+C:\Users\ILYAS TUNAHAN OZCAN\Desktop\C#\Dotnet_Pratikler\Dotnet_Pratikler\Ornek1\Ornek1_4\obj\Debug\net5.0\Ornek1_4.genruntimeconfig.cache
