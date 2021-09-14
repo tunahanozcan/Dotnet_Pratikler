@@ -21,7 +21,7 @@ namespace Koleksiyonlar_Soru_1
             double asalDegilToplam=0;
             
             Console.WriteLine("Pozitif Sayı Giriniz. ");
-            while (sayac<5)
+            while (sayac<20)
             {   var girilen=Console.ReadLine();
                 if(IsNumeric(girilen)){
                     var sayi=Convert.ToInt32(girilen);
