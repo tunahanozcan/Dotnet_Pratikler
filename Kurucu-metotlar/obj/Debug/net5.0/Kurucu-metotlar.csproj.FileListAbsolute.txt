@@ -1,0 +1,16 @@
+C:\Users\ILYAS TUNAHAN OZCAN\Desktop\C#\Dotnet_Pratikler\Dotnet_Pratikler\Kurucu-metotlar\bin\Debug\net5.0\Kurucu-metotlar.exe
+C:\Users\ILYAS TUNAHAN OZCAN\Desktop\C#\Dotnet_Pratikler\Dotnet_Pratikler\Kurucu-metotlar\bin\Debug\net5.0\Kurucu-metotlar.deps.json
+C:\Users\ILYAS TUNAHAN OZCAN\Desktop\C#\Dotnet_Pratikler\Dotnet_Pratikler\Kurucu-metotlar\bin\Debug\net5.0\Kurucu-metotlar.runtimeconfig.json
+C:\Users\ILYAS TUNAHAN OZCAN\Desktop\C#\Dotnet_Pratikler\Dotnet_Pratikler\Kurucu-metotlar\bin\Debug\net5.0\Kurucu-metotlar.runtimeconfig.dev.json
+C:\Users\ILYAS TUNAHAN OZCAN\Desktop\C#\Dotnet_Pratikler\Dotnet_Pratikler\Kurucu-metotlar\bin\Debug\net5.0\Kurucu-metotlar.dll
+C:\Users\ILYAS TUNAHAN OZCAN\Desktop\C#\Dotnet_Pratikler\Dotnet_Pratikler\Kurucu-metotlar\bin\Debug\net5.0\ref\Kurucu-metotlar.dll
+C:\Users\ILYAS TUNAHAN OZCAN\Desktop\C#\Dotnet_Pratikler\Dotnet_Pratikler\Kurucu-metotlar\bin\Debug\net5.0\Kurucu-metotlar.pdb
+C:\Users\ILYAS TUNAHAN OZCAN\Desktop\C#\Dotnet_Pratikler\Dotnet_Pratikler\Kurucu-metotlar\obj\Debug\net5.0\Kurucu-metotlar.csprojAssemblyReference.cache
+C:\Users\ILYAS TUNAHAN OZCAN\Desktop\C#\Dotnet_Pratikler\Dotnet_Pratikler\Kurucu-metotlar\obj\Debug\net5.0\Kurucu-metotlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ILYAS TUNAHAN OZCAN\Desktop\C#\Dotnet_Pratikler\Dotnet_Pratikler\Kurucu-metotlar\obj\Debug\net5.0\Kurucu-metotlar.AssemblyInfoInputs.cache
+C:\Users\ILYAS TUNAHAN OZCAN\Desktop\C#\Dotnet_Pratikler\Dotnet_Pratikler\Kurucu-metotlar\obj\Debug\net5.0\Kurucu-metotlar.AssemblyInfo.cs
+C:\Users\ILYAS TUNAHAN OZCAN\Desktop\C#\Dotnet_Pratikler\Dotnet_Pratikler\Kurucu-metotlar\obj\Debug\net5.0\Kurucu-metotlar.csproj.CoreCompileInputs.cache
+C:\Users\ILYAS TUNAHAN OZCAN\Desktop\C#\Dotnet_Pratikler\Dotnet_Pratikler\Kurucu-metotlar\obj\Debug\net5.0\Kurucu-metotlar.dll
+C:\Users\ILYAS TUNAHAN OZCAN\Desktop\C#\Dotnet_Pratikler\Dotnet_Pratikler\Kurucu-metotlar\obj\Debug\net5.0\ref\Kurucu-metotlar.dll
+C:\Users\ILYAS TUNAHAN OZCAN\Desktop\C#\Dotnet_Pratikler\Dotnet_Pratikler\Kurucu-metotlar\obj\Debug\net5.0\Kurucu-metotlar.pdb
+C:\Users\ILYAS TUNAHAN OZCAN\Desktop\C#\Dotnet_Pratikler\Dotnet_Pratikler\Kurucu-metotlar\obj\Debug\net5.0\Kurucu-metotlar.genruntimeconfig.cache
