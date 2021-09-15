@@ -1,0 +1,16 @@
+C:\Users\ILYAS TUNAHAN OZCAN\Desktop\C#\Dotnet_Pratikler\Dotnet_Pratikler\Sınıf-Kavramı\bin\Debug\net5.0\Sınıf-Kavramı.exe
+C:\Users\ILYAS TUNAHAN OZCAN\Desktop\C#\Dotnet_Pratikler\Dotnet_Pratikler\Sınıf-Kavramı\bin\Debug\net5.0\Sınıf-Kavramı.deps.json
+C:\Users\ILYAS TUNAHAN OZCAN\Desktop\C#\Dotnet_Pratikler\Dotnet_Pratikler\Sınıf-Kavramı\bin\Debug\net5.0\Sınıf-Kavramı.runtimeconfig.json
+C:\Users\ILYAS TUNAHAN OZCAN\Desktop\C#\Dotnet_Pratikler\Dotnet_Pratikler\Sınıf-Kavramı\bin\Debug\net5.0\Sınıf-Kavramı.runtimeconfig.dev.json
+C:\Users\ILYAS TUNAHAN OZCAN\Desktop\C#\Dotnet_Pratikler\Dotnet_Pratikler\Sınıf-Kavramı\bin\Debug\net5.0\Sınıf-Kavramı.dll
+C:\Users\ILYAS TUNAHAN OZCAN\Desktop\C#\Dotnet_Pratikler\Dotnet_Pratikler\Sınıf-Kavramı\bin\Debug\net5.0\ref\Sınıf-Kavramı.dll
+C:\Users\ILYAS TUNAHAN OZCAN\Desktop\C#\Dotnet_Pratikler\Dotnet_Pratikler\Sınıf-Kavramı\bin\Debug\net5.0\Sınıf-Kavramı.pdb
+C:\Users\ILYAS TUNAHAN OZCAN\Desktop\C#\Dotnet_Pratikler\Dotnet_Pratikler\Sınıf-Kavramı\obj\Debug\net5.0\Sınıf-Kavramı.csprojAssemblyReference.cache
+C:\Users\ILYAS TUNAHAN OZCAN\Desktop\C#\Dotnet_Pratikler\Dotnet_Pratikler\Sınıf-Kavramı\obj\Debug\net5.0\Sınıf-Kavramı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ILYAS TUNAHAN OZCAN\Desktop\C#\Dotnet_Pratikler\Dotnet_Pratikler\Sınıf-Kavramı\obj\Debug\net5.0\Sınıf-Kavramı.AssemblyInfoInputs.cache
+C:\Users\ILYAS TUNAHAN OZCAN\Desktop\C#\Dotnet_Pratikler\Dotnet_Pratikler\Sınıf-Kavramı\obj\Debug\net5.0\Sınıf-Kavramı.AssemblyInfo.cs
+C:\Users\ILYAS TUNAHAN OZCAN\Desktop\C#\Dotnet_Pratikler\Dotnet_Pratikler\Sınıf-Kavramı\obj\Debug\net5.0\Sınıf-Kavramı.csproj.CoreCompileInputs.cache
+C:\Users\ILYAS TUNAHAN OZCAN\Desktop\C#\Dotnet_Pratikler\Dotnet_Pratikler\Sınıf-Kavramı\obj\Debug\net5.0\Sınıf-Kavramı.dll
+C:\Users\ILYAS TUNAHAN OZCAN\Desktop\C#\Dotnet_Pratikler\Dotnet_Pratikler\Sınıf-Kavramı\obj\Debug\net5.0\ref\Sınıf-Kavramı.dll
+C:\Users\ILYAS TUNAHAN OZCAN\Desktop\C#\Dotnet_Pratikler\Dotnet_Pratikler\Sınıf-Kavramı\obj\Debug\net5.0\Sınıf-Kavramı.pdb
+C:\Users\ILYAS TUNAHAN OZCAN\Desktop\C#\Dotnet_Pratikler\Dotnet_Pratikler\Sınıf-Kavramı\obj\Debug\net5.0\Sınıf-Kavramı.genruntimeconfig.cache
