@@ -1,0 +1,16 @@
+C:\Users\ILYAS TUNAHAN OZCAN\Desktop\C#\Dotnet_Pratikler\Dotnet_Pratikler\Static-Sinif-ve-Üyeler\bin\Debug\net5.0\Static-Sinif-ve-Üyeler.exe
+C:\Users\ILYAS TUNAHAN OZCAN\Desktop\C#\Dotnet_Pratikler\Dotnet_Pratikler\Static-Sinif-ve-Üyeler\bin\Debug\net5.0\Static-Sinif-ve-Üyeler.deps.json
+C:\Users\ILYAS TUNAHAN OZCAN\Desktop\C#\Dotnet_Pratikler\Dotnet_Pratikler\Static-Sinif-ve-Üyeler\bin\Debug\net5.0\Static-Sinif-ve-Üyeler.runtimeconfig.json
+C:\Users\ILYAS TUNAHAN OZCAN\Desktop\C#\Dotnet_Pratikler\Dotnet_Pratikler\Static-Sinif-ve-Üyeler\bin\Debug\net5.0\Static-Sinif-ve-Üyeler.runtimeconfig.dev.json
+C:\Users\ILYAS TUNAHAN OZCAN\Desktop\C#\Dotnet_Pratikler\Dotnet_Pratikler\Static-Sinif-ve-Üyeler\bin\Debug\net5.0\Static-Sinif-ve-Üyeler.dll
+C:\Users\ILYAS TUNAHAN OZCAN\Desktop\C#\Dotnet_Pratikler\Dotnet_Pratikler\Static-Sinif-ve-Üyeler\bin\Debug\net5.0\ref\Static-Sinif-ve-Üyeler.dll
+C:\Users\ILYAS TUNAHAN OZCAN\Desktop\C#\Dotnet_Pratikler\Dotnet_Pratikler\Static-Sinif-ve-Üyeler\bin\Debug\net5.0\Static-Sinif-ve-Üyeler.pdb
+C:\Users\ILYAS TUNAHAN OZCAN\Desktop\C#\Dotnet_Pratikler\Dotnet_Pratikler\Static-Sinif-ve-Üyeler\obj\Debug\net5.0\Static-Sinif-ve-Üyeler.csprojAssemblyReference.cache
+C:\Users\ILYAS TUNAHAN OZCAN\Desktop\C#\Dotnet_Pratikler\Dotnet_Pratikler\Static-Sinif-ve-Üyeler\obj\Debug\net5.0\Static-Sinif-ve-Üyeler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ILYAS TUNAHAN OZCAN\Desktop\C#\Dotnet_Pratikler\Dotnet_Pratikler\Static-Sinif-ve-Üyeler\obj\Debug\net5.0\Static-Sinif-ve-Üyeler.AssemblyInfoInputs.cache
+C:\Users\ILYAS TUNAHAN OZCAN\Desktop\C#\Dotnet_Pratikler\Dotnet_Pratikler\Static-Sinif-ve-Üyeler\obj\Debug\net5.0\Static-Sinif-ve-Üyeler.AssemblyInfo.cs
+C:\Users\ILYAS TUNAHAN OZCAN\Desktop\C#\Dotnet_Pratikler\Dotnet_Pratikler\Static-Sinif-ve-Üyeler\obj\Debug\net5.0\Static-Sinif-ve-Üyeler.csproj.CoreCompileInputs.cache
+C:\Users\ILYAS TUNAHAN OZCAN\Desktop\C#\Dotnet_Pratikler\Dotnet_Pratikler\Static-Sinif-ve-Üyeler\obj\Debug\net5.0\Static-Sinif-ve-Üyeler.dll
+C:\Users\ILYAS TUNAHAN OZCAN\Desktop\C#\Dotnet_Pratikler\Dotnet_Pratikler\Static-Sinif-ve-Üyeler\obj\Debug\net5.0\ref\Static-Sinif-ve-Üyeler.dll
+C:\Users\ILYAS TUNAHAN OZCAN\Desktop\C#\Dotnet_Pratikler\Dotnet_Pratikler\Static-Sinif-ve-Üyeler\obj\Debug\net5.0\Static-Sinif-ve-Üyeler.pdb
+C:\Users\ILYAS TUNAHAN OZCAN\Desktop\C#\Dotnet_Pratikler\Dotnet_Pratikler\Static-Sinif-ve-Üyeler\obj\Debug\net5.0\Static-Sinif-ve-Üyeler.genruntimeconfig.cache
