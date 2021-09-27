@@ -1,0 +1,16 @@
+C:\Users\ILYAS TUNAHAN OZCAN\Desktop\C#\Dotnet_Pratikler\Dotnet_Pratikler\ToDoApp\bin\Debug\net5.0\ToDoApp.exe
+C:\Users\ILYAS TUNAHAN OZCAN\Desktop\C#\Dotnet_Pratikler\Dotnet_Pratikler\ToDoApp\bin\Debug\net5.0\ToDoApp.deps.json
+C:\Users\ILYAS TUNAHAN OZCAN\Desktop\C#\Dotnet_Pratikler\Dotnet_Pratikler\ToDoApp\bin\Debug\net5.0\ToDoApp.runtimeconfig.json
+C:\Users\ILYAS TUNAHAN OZCAN\Desktop\C#\Dotnet_Pratikler\Dotnet_Pratikler\ToDoApp\bin\Debug\net5.0\ToDoApp.runtimeconfig.dev.json
+C:\Users\ILYAS TUNAHAN OZCAN\Desktop\C#\Dotnet_Pratikler\Dotnet_Pratikler\ToDoApp\bin\Debug\net5.0\ToDoApp.dll
+C:\Users\ILYAS TUNAHAN OZCAN\Desktop\C#\Dotnet_Pratikler\Dotnet_Pratikler\ToDoApp\bin\Debug\net5.0\ref\ToDoApp.dll
+C:\Users\ILYAS TUNAHAN OZCAN\Desktop\C#\Dotnet_Pratikler\Dotnet_Pratikler\ToDoApp\bin\Debug\net5.0\ToDoApp.pdb
+C:\Users\ILYAS TUNAHAN OZCAN\Desktop\C#\Dotnet_Pratikler\Dotnet_Pratikler\ToDoApp\obj\Debug\net5.0\ToDoApp.csprojAssemblyReference.cache
+C:\Users\ILYAS TUNAHAN OZCAN\Desktop\C#\Dotnet_Pratikler\Dotnet_Pratikler\ToDoApp\obj\Debug\net5.0\ToDoApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ILYAS TUNAHAN OZCAN\Desktop\C#\Dotnet_Pratikler\Dotnet_Pratikler\ToDoApp\obj\Debug\net5.0\ToDoApp.AssemblyInfoInputs.cache
+C:\Users\ILYAS TUNAHAN OZCAN\Desktop\C#\Dotnet_Pratikler\Dotnet_Pratikler\ToDoApp\obj\Debug\net5.0\ToDoApp.AssemblyInfo.cs
+C:\Users\ILYAS TUNAHAN OZCAN\Desktop\C#\Dotnet_Pratikler\Dotnet_Pratikler\ToDoApp\obj\Debug\net5.0\ToDoApp.csproj.CoreCompileInputs.cache
+C:\Users\ILYAS TUNAHAN OZCAN\Desktop\C#\Dotnet_Pratikler\Dotnet_Pratikler\ToDoApp\obj\Debug\net5.0\ToDoApp.dll
+C:\Users\ILYAS TUNAHAN OZCAN\Desktop\C#\Dotnet_Pratikler\Dotnet_Pratikler\ToDoApp\obj\Debug\net5.0\ref\ToDoApp.dll
+C:\Users\ILYAS TUNAHAN OZCAN\Desktop\C#\Dotnet_Pratikler\Dotnet_Pratikler\ToDoApp\obj\Debug\net5.0\ToDoApp.pdb
+C:\Users\ILYAS TUNAHAN OZCAN\Desktop\C#\Dotnet_Pratikler\Dotnet_Pratikler\ToDoApp\obj\Debug\net5.0\ToDoApp.genruntimeconfig.cache
